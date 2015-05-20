@@ -1,0 +1,21 @@
+{
+  "name": "Kolokwium2",
+  "version": "0.1.0",
+  "description": "",
+  "main": "serwer.js",
+  "scripts": {
+    "start": "node serwer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "morgan": "^1.5.3",
+    "serve-favicon": "^2.2.1",
+    "tingodb": "^0.3.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compress": "^0.13.0"
+  }
+}

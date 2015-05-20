@@ -1,0 +1,13 @@
+body {
+  background-color: ivory;
+}
+#lista ul {
+  height: 400px;
+  overflow-y: scroll;
+  width: 200px;
+  list-style: none;
+}
+#panel {
+  float: left;
+  margin-right: 40px;
+}
